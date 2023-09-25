@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! 👋
+
+- I'm currently working as a Computer Science teacher :man_technologist:
+- I'm currently teaching Python, Kotlin, Java, HTML5, CSS and JavaScript :open_book:
+- I love to travel around the world :earth_africa:
+- My favourite food is Pizza! :pizza:
 
 <!--
 **jtaguar/jtaguar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
